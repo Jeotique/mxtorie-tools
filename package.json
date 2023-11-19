@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "discord.js-mxtorie": "^13.8.2",
+    "get-stream": "^6.0.1",
+    "https-proxy-agent": "^5.0.1",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "mxtorie-db": "^1.0.5",
+    "mxtorie-prevname": "^1.0.0",
+    "mxtorie-utils": "^1.0.1",
+    "mysql2": "^2.3.3",
+    "nodejs-file-downloader": "^4.9.2",
+    "pretty-ms": "^7.0.1",
+    "ws": "^8.8.0",
+    "yauzl": "^2.10.0"
+  }
+}
